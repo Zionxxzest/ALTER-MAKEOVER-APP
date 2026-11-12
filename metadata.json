@@ -1,0 +1,8 @@
+{
+  "name": "Atelier AI - Interactive Room Makeover",
+  "description": "Reimagine your room with AI interior styles, an interactive before-and-after comparison slider, conversational design refinement, and shoppable furniture links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
